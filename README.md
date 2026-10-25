@@ -20,12 +20,21 @@ To understand common cloud security risks and learn how to prevent and safely id
 ## Verification
 This project uses research and sample-based verification. No live cloud resources were tested or modified.
 
+
 ## References
 - [AWS IAM Security Best Practices](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
 - [AWS S3 Block Public Access](https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-control-block-public-access.html)
 - [OWASP Secrets Management Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html)
 - [AWS CloudTrail User Guide](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html)
 - [AWS Security Group Rules](https://docs.aws.amazon.com/vpc/latest/userguide/security-group-rules.html)
+
+
+## Project Walkthrough
+
+Watch the explanatory video demonstrating the technical report, risk assessment table, and safe verification steps.
+
+[Watch the Project Video](https://drive.google.com/drive/folders/1rULrTNXmNhSZFzJQt_VF3YqXCyRFaePK)
+
 
 ## Author
 **Janvi Pandey**
